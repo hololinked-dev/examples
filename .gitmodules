@@ -34,3 +34,6 @@
 [submodule "server-examples/picoscope"]
 	path = server-examples/picoscope
 	url = https://gitlab.com/hololinked-examples/picoscope
+[submodule "client-examples/node-wot/low-frequency-pulsed-laser-daq"]
+	path = client-examples/node-wot/low-frequency-pulsed-laser-daq
+	url = https://github.com/VigneshVSV/low-frequency-pulsed-laser-daq.git
