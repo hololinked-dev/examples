@@ -35,5 +35,8 @@
 	path = server-examples/picoscope
 	url = https://gitlab.com/hololinked-examples/picoscope
 [submodule "client-examples/node-wot/low-frequency-pulsed-laser-daq"]
-	path = client-examples/node-wot/low-frequency-pulsed-laser-daq
+	path = server-examples/low-frequency-pulsed-laser-daq
 	url = https://github.com/VigneshVSV/low-frequency-pulsed-laser-daq.git
+[submodule "client-examples/node-wot/zeus-dashboard"]
+	path = client-examples/node-wot/zeus-dashboard
+	url = https://gitlab.com/node-clients/zeus-dashboard.git
