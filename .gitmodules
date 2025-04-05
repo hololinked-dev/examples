@@ -42,7 +42,7 @@
 	url = https://gitlab.com/hololinked/examples/clients/node-clients/phymotion-controllers-app.git
 [submodule "client-examples/node-wot/ids-camera-app"]
 	path = client-examples/node-wot/ids-camera-app
-	url = https://gitlab.com/hololinked/examples/clients/node-clients/ids-camera-app
+	url = https://gitlab.com/hololinked/examples/clients/node-clients/ids-camera-app.git
 [submodule "server-examples/simulations/oscilloscope-simulator"]
 	path = server-examples/simulations/oscilloscope-simulator
 	url = https://gitlab.com/hololinked/examples/servers/oscilloscope-simulator.git
