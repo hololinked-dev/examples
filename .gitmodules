@@ -49,3 +49,6 @@
 [submodule "server-examples/simulations/camera-simulator"]
 	path = server-examples/simulations/camera-simulator
 	url = https://gitlab.com/hololinked/examples/servers/simulations/camera-simulator.git
+[submodule "client-examples/node-wot/image-streaming-basic"]
+	path = client-examples/node-wot/image-streaming-basic
+	url = https://gitlab.com/hololinked/examples/clients/node-clients/image-streaming-basic.git
