@@ -24,7 +24,7 @@
 	url = https://gitlab.com/hololinked/examples/servers/picoscope.git
 [submodule "server-examples/simulations/spectrometer-simulator"]
 	path = server-examples/simulations/spectrometer-simulator
-	url = https://gitlab.com/hololinked/examples/servers/spectrometer-simulator.git
+	url = https://gitlab.com/hololinked/examples/servers/simulations/spectrometer-simulator.git
 [submodule "client-examples/node-wot/low-frequency-pulsed-laser-daq"]
 	path = system/low-frequency-pulsed-laser-daq
 	url = https://gitlab.com/hololinked/examples/system/low-frequency-pulsed-laser-daq.git
@@ -42,7 +42,7 @@
 	url = https://gitlab.com/hololinked/examples/clients/node-clients/ids-camera-app.git
 [submodule "server-examples/simulations/oscilloscope-simulator"]
 	path = server-examples/simulations/oscilloscope-simulator
-	url = https://gitlab.com/hololinked/examples/servers/oscilloscope-simulator.git
+	url = https://gitlab.com/hololinked/examples/servers/simulations/oscilloscope-simulator.git
 [submodule "server-examples/simulations/camera-simulator"]
 	path = server-examples/simulations/camera-simulator
 	url = https://gitlab.com/hololinked/examples/servers/simulations/camera-simulator.git
